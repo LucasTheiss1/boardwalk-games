@@ -1,5 +1,14 @@
+
+/*Google fonts Inter and Macondo*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Macondo&family=Oswald:wght@300&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
 h1 {
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-family: 'Macondo', cursive;
     font-size: 36px;
     color: #000000;
     text-align: center;
@@ -7,7 +16,7 @@ h1 {
 }
 
 p {
-    font-family: Arial, sans-serif;
+    
     font-size: 18px;
     color: #333;
     text-align: center;
