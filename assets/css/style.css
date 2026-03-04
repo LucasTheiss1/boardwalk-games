@@ -17,6 +17,7 @@
 
 body {
     font-family: var(--primary-font);
+    padding-top: 55px;
 }
 
 h1,
@@ -78,7 +79,9 @@ h2 {
  /*Navbar*/
 
  #navbar {
-    background-color: var(--primary-color); 
+    background-color: var(--primary-color);
+    margin-bottom: 28px;
+
 } 
 
 #navbar .logo {
@@ -109,6 +112,16 @@ h2 {
     border: none;
 
 }
+
+/*Game library form*/
+
+#reserve {
+    text-align: center;
+}
+
+
+
+
 
 /*Join Events*/
 
